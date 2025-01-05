@@ -3,5 +3,5 @@ This is a fun challenge to learn coding. I will make 100 different projects, sma
 
 ##
 
-1. [Editable Checkbox](https://github.com/melanielaporte/asset-Editable-Checkbox) -> HTML/CSS
-2. 
+1. Asset: [Editable Checkbox](https://github.com/melanielaporte/asset-Editable-Checkbox) -> HTML/CSS 
+2. Game: [Pirate Themed Memory Card](https://github.com/melanielaporte/Pirates-Booty) -> HTML/CSS/JS
