@@ -5,4 +5,3 @@ This is a fun challenge to learn design and coding. I will make 100 different pr
 1. Asset: [Editable Checkbox](https://melanielaporte.github.io/asset-Editable-Checkbox/) (HTML/CSS)
 2. Game: [Pirate Themed Memory Card](https://editting-lively-shell-121.vscodeedu.app/) (HTML/CSS/JS)
 3. Theme: [Minimalist Website](https://pecan-devoted-stream-948.vscodeedu.app/index.html) (Figma/HTML/CSS/JS)
-4. .
